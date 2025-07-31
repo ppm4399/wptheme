@@ -1,0 +1,2174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JustNews\n"
+"POT-Creation-Date: 2025-05-06 16:58+0800\n"
+"PO-Revision-Date: 2025-05-06 16:59+0800\n"
+"Last-Translator: \n"
+"Language-Team: WPCOM <service@izt.me>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_n:1,2;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;_n_noop:1,2;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: src\n"
+"X-Poedit-SearchPathExcluded-1: themer/importer\n"
+"X-Poedit-SearchPathExcluded-2: *.js\n"
+
+#: 404.php:10
+msgid "404 Page not found!"
+msgstr "404錯誤!抱歉，無法找到此頁面！請訪問本站其他精彩內容!"
+
+#: 404.php:11
+msgid ""
+"We're sorry, but the page you're looking for may have been moved or deleted."
+msgstr "抱歉，您訪問的頁面暫時不可用，請訪問本站其他精彩內容!"
+
+#: 404.php:11
+msgid "Go home"
+msgstr "回首頁"
+
+#: archive.php:8
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "按日期歸檔：%s"
+
+#: archive.php:9
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "按月份歸檔：%s"
+
+#: archive.php:9
+msgid "F Y"
+msgstr "Y年m月"
+
+#: archive.php:10
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "按年份歸檔：%s"
+
+#: archive.php:10
+msgid "Y"
+msgstr "Y年"
+
+#: category.php:59 functions.php:204 functions.php:485 index.php:151
+#: modules/main-list.php:145 modules/main-list.php:170 modules/mix-tabs.php:232
+#: themer/member/templates/follows.php:12
+#: themer/member/templates/follows.php:24
+msgid "Load more posts"
+msgstr "點擊查看更多"
+
+#: category.php:63 themer/member/templates/follows.php:21
+msgid "Loading..."
+msgstr "載入中…"
+
+#: comments.php:28 woocommerce/single-product-reviews.php:72
+msgid "Name: "
+msgstr "暱稱："
+
+#: comments.php:29 woocommerce/single-product-reviews.php:74
+msgid "Email: "
+msgstr "Email信箱："
+
+#: comments.php:30
+msgid "Website: "
+msgstr "網站: "
+
+#: comments.php:31
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr "在瀏覽器儲存姓名、電子郵件、網站以便下次發表評論。"
+
+#: comments.php:43
+msgid "Type your comment here..."
+msgstr "在此輸入您的評論..."
+
+#: comments.php:44
+msgid "You must be logged in to post a comment..."
+msgstr "你必須登入後才能發表評論..."
+
+#: comments.php:44
+#, php-format
+msgid "Please <a href=\"%s\">Login</a> to Comment"
+msgstr "請<a href=\"%s\">登入</a>後發表評論"
+
+#: comments.php:44 comments.php:47 woocommerce/single-product-reviews.php:77
+msgid "Submit"
+msgstr "送出"
+
+#: comments.php:58
+#, php-format
+msgid "Comments(%s)"
+msgstr "留言列表（%s条）"
+
+#: comments.php:70 functions.php:742
+msgid "Reply"
+msgstr "回覆"
+
+#: comments.php:76 themer/functions/pagination.php:16
+#: themer/functions/pagination.php:54
+msgctxt "pagination"
+msgid "Previous"
+msgstr "上一頁"
+
+#: comments.php:77 themer/functions/pagination.php:45
+#: themer/functions/pagination.php:79
+msgctxt "pagination"
+msgid "Next"
+msgstr "下一頁"
+
+#: functions.php:74
+msgid "1 second ago"
+msgstr "1秒前"
+
+#: functions.php:84
+#, php-format
+msgid "%s day ago"
+msgid_plural "%s days ago"
+msgstr[0] "%s天前"
+msgstr[1] "%s天前"
+
+#: functions.php:85
+#, php-format
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] "%s小時前"
+msgstr[1] "%s小時前"
+
+#: functions.php:86
+#, php-format
+msgid "%s min ago"
+msgid_plural "%s mins ago"
+msgstr[0] "%s分鐘前"
+msgstr[1] "%s分鐘前"
+
+#: functions.php:87
+#, php-format
+msgid "%s second ago"
+msgid_plural "%s seconds ago"
+msgstr[0] "%s秒前"
+msgstr[1] "%s秒前"
+
+#: functions.php:176
+msgid "Favorites"
+msgstr "我的最愛"
+
+#: functions.php:207 functions.php:215
+msgid "You have no favorite posts."
+msgstr "您還沒有喜歡的文章"
+
+#: functions.php:209 functions.php:217
+msgid "This user has no favorite posts."
+msgstr "此帳戶還沒有喜歡的文章"
+
+#: functions.php:394
+msgid ", please wait for review"
+msgstr ""
+
+#: functions.php:398
+#, php-format
+msgid ""
+"Submission successful%s! You can <a target=\"_blank\" href=\"%s\">click "
+"here</a> to preview or return to <a target=\"_blank\" href=\"%s\">my posts "
+"list</a>."
+msgstr ""
+
+#: functions.php:405
+#, php-format
+msgid ""
+"Submission successful%s! You can return to <a target=\"_blank\" "
+"href=\"%s\">my posts list</a>."
+msgstr ""
+
+#: functions.php:659 page-special.php:53
+msgctxt "topic"
+msgid "Read More"
+msgstr "進入專題"
+
+#: functions.php:665 page-special.php:59
+#, php-format
+msgid "%s posts"
+msgstr ""
+
+#: functions.php:667 functions.php:1112 modules/mix-tabs.php:317
+#: page-kuaixun.php:72 page-special.php:61 single-kuaixun.php:39
+#: widgets/kuaixun.php:54
+msgid "Share to: "
+msgstr ""
+
+#: functions.php:1013 themer/functions/mobile-share.php:15
+msgctxt "原文链接"
+msgid "Read More"
+msgstr ""
+
+#: functions.php:1086 modules/mix-tabs.php:290 page-kuaixun.php:45
+msgid "Today"
+msgstr ""
+
+#: functions.php:1088 modules/mix-tabs.php:292 page-kuaixun.php:47
+msgid "Yesterday"
+msgstr ""
+
+#: functions.php:1110 modules/mix-tabs.php:315 page-kuaixun.php:70
+#: single-kuaixun.php:37 single.php:155
+msgid "Generate poster"
+msgstr ""
+
+#: functions.php:1161
+#, php-format
+msgid "You have %s new message!"
+msgid_plural "You have %s new messages!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1195
+msgctxt "metas"
+msgid "Favorites"
+msgstr ""
+
+#: functions.php:1200
+msgctxt "metas"
+msgid "Likes"
+msgstr ""
+
+#: functions.php:1206
+msgctxt "metas"
+msgid "Views"
+msgstr ""
+
+#: functions.php:1214 functions.php:1216
+msgctxt "metas"
+msgid "Comments"
+msgstr ""
+
+#: functions.php:1271
+msgid "All content has been loaded"
+msgstr ""
+
+#: functions.php:1272
+msgid "No content yet"
+msgstr ""
+
+#: functions.php:1273
+msgid "Load failed, please try again later!"
+msgstr ""
+
+#: functions.php:1274
+#, php-format
+msgid "Expand and read the remaining %s"
+msgstr ""
+
+#: functions.php:1464
+msgid "Submit a Post"
+msgstr ""
+
+#: functions.php:1654 searchform.php:2
+msgid "Type your search here ..."
+msgstr "輸入關鍵字搜尋..."
+
+#: functions.php:1655 themer/modules/search.php:229
+msgid "Search"
+msgstr ""
+
+#: header.php:57
+msgid "Sign in"
+msgstr "登入"
+
+#: header.php:58
+msgid "Sign up"
+msgstr "註冊"
+
+#: header.php:62
+msgid "Submit Post"
+msgstr "投稿"
+
+#: index.php:96
+msgid "All Topics"
+msgstr "全部專題"
+
+#: index.php:127 modules/main-list.php:113
+msgid "Latest Posts"
+msgstr "最新文章"
+
+#: modules/category-posts.php:119 modules/navs.php:79 widgets/kuaixun.php:35
+msgid "More"
+msgstr ""
+
+#: modules/mix-tabs.php:265 modules/mix-tabs.php:334 modules/mix-tabs.php:365
+#: page-kuaixun.php:88 page-special.php:98
+msgid "Load more topics"
+msgstr "請點擊！看更多！"
+
+#: page-editor.php:52
+msgid "Post Content"
+msgstr ""
+
+#: page-editor.php:55
+msgid "Please enter the post title"
+msgstr ""
+
+#: page-editor.php:60
+msgid "Please enter the post excerpt (optional)"
+msgstr ""
+
+#: page-editor.php:71 themer/includes/plugin-activation.php:2845
+msgid "Update"
+msgstr "更新"
+
+#: page-editor.php:71
+msgid "Publish"
+msgstr ""
+
+#: page-editor.php:74
+msgid "Category"
+msgstr ""
+
+#: page-editor.php:84
+msgid "Please select a category"
+msgstr ""
+
+#: page-editor.php:103
+msgid "At least one category must be selected"
+msgstr ""
+
+#: page-editor.php:107
+msgid "Tags"
+msgstr ""
+
+#: page-editor.php:110
+msgid "Keywords for the post, press Enter to confirm (optional)"
+msgstr ""
+
+#: page-editor.php:115
+msgid "Thumbnail"
+msgstr ""
+
+#: page-editor.php:118
+msgid "Set Thumbnail Image"
+msgstr ""
+
+#: page-editor.php:119
+msgid "The thumbnail will appear in the post list. Setting one is recommended."
+msgstr ""
+
+#: page-editor.php:128
+msgid "You do not have permission to access this page!"
+msgstr ""
+
+#: search.php:9 themer/functions/breadcrumb.php:72
+msgid "None"
+msgstr "無"
+
+#: search.php:10 themer/functions/breadcrumb.php:73
+#, php-format
+msgid "Search for: %s"
+msgstr "搜尋：%s"
+
+#: single-kuaixun.php:8 themer/functions/breadcrumb.php:13
+msgid "Home"
+msgstr "首頁"
+
+#: single-kuaixun.php:56
+msgctxt "kx"
+msgid "Previous: %link"
+msgstr ""
+
+#: single-kuaixun.php:57
+msgctxt "kx"
+msgid "Next: %link"
+msgstr ""
+
+#: single.php:65
+#, php-format
+msgid "%s views"
+msgstr ""
+
+#: single.php:87
+msgid "Like"
+msgstr "讚！"
+
+#: single.php:91 single.php:134
+msgid "Donate"
+msgstr ""
+
+#: single.php:186
+msgid "Related posts"
+msgstr "相關文章"
+
+#: templates/entry-author.php:8
+msgid "About Author"
+msgstr ""
+
+#: templates/entry-prev-next.php:59
+msgctxt "single"
+msgid "Previous"
+msgstr ""
+
+#: templates/entry-prev-next.php:70
+msgctxt "single"
+msgid "Next"
+msgstr ""
+
+#: templates/loop-card.php:26 templates/loop-default.php:40
+#: templates/loop-image.php:22 templates/loop-large-image.php:15
+#: templates/loop-masonry.php:22 templates/loop-multimage.php:14
+msgctxt "置顶"
+msgid "TOP"
+msgstr ""
+
+#: templates/loop-none.php:6
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉！您搜尋的內容未找到，請使用其他關鍵字搜尋。"
+
+#: templates/loop-none.php:8
+msgid "Please type your keyword(s) to search."
+msgstr "請輸入關鍵字再進行搜尋。"
+
+#: templates/loop-none.php:11
+msgid "Sorry, It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: themer/core/visual-editor.php:427
+#, php-format
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr ""
+
+#: themer/functions/blocks.php:23
+msgid "WPCOM扩展区块"
+msgstr ""
+
+#: themer/functions/breadcrumb.php:109
+msgid "404 ERROR"
+msgstr "404錯誤"
+
+#: themer/functions/breadcrumb.php:114
+#, php-format
+msgid "Paged %s"
+msgstr "第%s頁"
+
+#: themer/functions/content-filter.php:214
+#, php-format
+msgid "%s"
+msgstr "<span>%s</span> 相關文章"
+
+#: themer/functions/footer.php:46
+msgid "SHARE"
+msgstr ""
+
+#: themer/functions/footer.php:52
+msgid "TOP"
+msgstr ""
+
+#: themer/functions/member-functions.php:9
+msgctxt "label"
+msgid "Phone number"
+msgstr ""
+
+#: themer/functions/member-functions.php:14
+msgctxt "placeholder"
+msgid "Phone number"
+msgstr ""
+
+#: themer/functions/member-functions.php:21
+msgctxt "label"
+msgid "Verification code"
+msgstr ""
+
+#: themer/functions/member-functions.php:27
+msgctxt "placeholder"
+msgid "Please enter your verification code"
+msgstr ""
+
+#: themer/functions/member-functions.php:43
+msgid "Failed to send"
+msgstr ""
+
+#: themer/functions/member-functions.php:44
+msgid "Send success"
+msgstr ""
+
+#: themer/functions/member-functions.php:82
+msgid "Failed to send email"
+msgstr ""
+
+#: themer/functions/member-functions.php:129
+msgid "verification failed"
+msgstr ""
+
+#: themer/functions/member-functions.php:130
+msgid "Verified successfully"
+msgstr ""
+
+#: themer/functions/member-functions.php:224 themer/includes/messages.php:37
+msgid "Messages"
+msgstr ""
+
+#: themer/functions/member-functions.php:234
+#: themer/includes/notifications.php:43
+msgid "Notifications"
+msgstr ""
+
+#: themer/functions/mobile-share.php:48 themer/functions/mobile-share.php:117
+msgid "Save the poster and share with more friends"
+msgstr ""
+
+#: themer/functions/mobile-share.php:90
+msgid "Download"
+msgstr ""
+
+#: themer/functions/mobile-share.php:91
+msgid "Close"
+msgstr ""
+
+#: themer/functions/mobile-share.php:118
+msgid "Poster generation in progress..."
+msgstr ""
+
+#: themer/functions/mobile-share.php:119
+msgid "Poster generation failed"
+msgstr ""
+
+#: themer/functions/pagination.php:48 themer/functions/pagination.php:82
+msgctxt "页码"
+msgid "GO"
+msgstr ""
+
+#: themer/functions/seo.php:243 themer/functions/seo.php:260
+#: themer/functions/seo.php:263
+#, php-format
+msgid "Page %s"
+msgstr "第%s頁"
+
+#: themer/functions/setup.php:263
+msgid "Share To :"
+msgstr "分享本頁"
+
+#: themer/functions/setup.php:264
+msgid "Copy successful!"
+msgstr ""
+
+#: themer/functions/setup.php:265
+msgid "The browser does not currently support the copy function"
+msgstr ""
+
+#: themer/functions/setup.php:266
+msgid "Confirm"
+msgstr ""
+
+#: themer/functions/setup.php:267
+msgid "QR Code"
+msgstr ""
+
+#: themer/functions/setup.php:277
+msgctxt "share"
+msgid "Weibo"
+msgstr "微博"
+
+#: themer/functions/setup.php:281
+msgctxt "share"
+msgid "WeChat"
+msgstr "微信"
+
+#: themer/functions/setup.php:285
+msgctxt "share"
+msgid "QQ"
+msgstr ""
+
+#: themer/functions/setup.php:289
+msgctxt "share"
+msgid "QZone"
+msgstr ""
+
+#: themer/functions/setup.php:294
+msgctxt "share"
+msgid "Douban"
+msgstr ""
+
+#: themer/functions/setup.php:298
+msgctxt "share"
+msgid "LinkedIn"
+msgstr ""
+
+#: themer/functions/setup.php:302
+msgctxt "share"
+msgid "Facebook"
+msgstr ""
+
+#: themer/functions/setup.php:306
+msgctxt "share"
+msgid "X"
+msgstr ""
+
+#: themer/functions/setup.php:310
+msgctxt "share"
+msgid "Twitter"
+msgstr ""
+
+#: themer/functions/setup.php:314
+msgctxt "share"
+msgid "Tumblr"
+msgstr ""
+
+#: themer/functions/setup.php:318
+msgctxt "share"
+msgid "WhatsApp"
+msgstr ""
+
+#: themer/functions/setup.php:322
+msgctxt "share"
+msgid "Pinterest"
+msgstr ""
+
+#: themer/functions/setup.php:326
+msgctxt "share"
+msgid "LINE"
+msgstr ""
+
+#: themer/functions/setup.php:330
+msgctxt "share"
+msgid "Telegram"
+msgstr ""
+
+#: themer/functions/setup.php:334
+msgctxt "share"
+msgid "Email"
+msgstr ""
+
+#: themer/functions/woocommerce.php:15 themer/functions/woocommerce.php:143
+#: themer/functions/woocommerce.php:147 themer/functions/woocommerce.php:575
+#: themer/functions/woocommerce.php:576
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: themer/functions/woocommerce.php:83
+#, php-format
+msgid "Reviews (%d)"
+msgstr "用戶留言(%d)"
+
+#: themer/functions/woocommerce.php:133
+msgid "Name"
+msgstr "姓名"
+
+#: themer/functions/woocommerce.php:144
+msgid "City"
+msgstr "城市"
+
+#: themer/functions/woocommerce.php:146
+msgid "District"
+msgstr ""
+
+#: themer/functions/woocommerce.php:150
+msgid "Address"
+msgstr "詳細地址"
+
+#: themer/functions/woocommerce.php:151
+msgid "Detailed address"
+msgstr ""
+
+#: themer/functions/woocommerce.php:306
+msgid "Sort by sales"
+msgstr ""
+
+#: themer/functions/woocommerce.php:375 themer/functions/woocommerce.php:394
+msgid "Shipped"
+msgstr ""
+
+#: themer/functions/woocommerce.php:380
+#, php-format
+msgid "Shipped <span class=\"count\">(%s)</span>"
+msgid_plural "Shipped <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/functions/woocommerce.php:482
+msgid "Order notes"
+msgstr "訂單備註"
+
+#: themer/functions/woocommerce.php:518
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: themer/functions/woocommerce.php:564
+msgid "required"
+msgstr ""
+
+#: themer/functions/woocommerce.php:566
+msgid "optional"
+msgstr ""
+
+#: themer/includes/comment-pro.php:68
+msgid "Your comment is awaiting moderation."
+msgstr "留言正在審核中..."
+
+#: themer/includes/comment-pro.php:93 widgets/comments.php:60
+#: widgets/comments.php:61
+msgid "Anonymous"
+msgstr ""
+
+#: themer/includes/follow.php:30
+msgid "Followed!"
+msgstr ""
+
+#: themer/includes/follow.php:36
+msgid "You can’t follow yourself!"
+msgstr ""
+
+#: themer/includes/follow.php:39
+msgid "Unfollow successfully!"
+msgstr ""
+
+#: themer/includes/follow.php:42
+msgid "Follow failed, please try again later!"
+msgstr ""
+
+#: themer/includes/follow.php:46
+msgctxt "follow"
+msgid "Please login first"
+msgstr ""
+
+#: themer/includes/follow.php:201
+msgid "Follows"
+msgstr ""
+
+#: themer/includes/follow.php:223
+msgid "Follow"
+msgstr ""
+
+#: themer/includes/follow.php:228
+msgid "Followed"
+msgstr ""
+
+#: themer/includes/messages-list.php:58
+#: themer/includes/notification-list.php:206
+msgid "Time"
+msgstr ""
+
+#: themer/includes/messages-list.php:59
+msgid "From"
+msgstr ""
+
+#: themer/includes/messages-list.php:60
+#: themer/includes/notification-list.php:207
+msgid "To"
+msgstr ""
+
+#: themer/includes/messages-list.php:61
+msgid "Content"
+msgstr ""
+
+#: themer/includes/messages-list.php:62
+#: themer/includes/notification-list.php:210
+#: themer/includes/plugin-activation.php:2676
+msgid "Status"
+msgstr "狀態"
+
+#: themer/includes/messages-list.php:88 themer/includes/messages-list.php:140
+#: themer/includes/notification-list.php:236
+#: themer/includes/notification-list.php:300
+msgid "Delete"
+msgstr ""
+
+#: themer/includes/messages-list.php:130
+msgid "Read"
+msgstr ""
+
+#: themer/includes/messages-list.php:130
+msgid "Unread"
+msgstr ""
+
+#: themer/includes/messages-list.php:139
+msgid ""
+"You are about to delete this message\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: themer/includes/messages.php:31 themer/includes/messages.php:290
+#: themer/includes/messages.php:295
+msgctxt "list"
+msgid "Messages"
+msgstr ""
+
+#: themer/includes/messages.php:57
+msgid "Message"
+msgstr ""
+
+#: themer/includes/messages.php:67 themer/includes/messages.php:138
+msgctxt "message"
+msgid "Please login first"
+msgstr ""
+
+#: themer/includes/messages.php:70 themer/includes/messages.php:106
+msgid "You can’t send yourself a private message!"
+msgstr ""
+
+#: themer/includes/messages.php:301
+msgid "Search messages"
+msgstr ""
+
+#: themer/includes/multi-filter.php:231
+msgctxt "multi-filter"
+msgid "Default"
+msgstr ""
+
+#: themer/includes/multi-filter.php:232
+msgctxt "multi-filter"
+msgid "Title"
+msgstr ""
+
+#: themer/includes/multi-filter.php:233
+msgctxt "multi-filter"
+msgid "Views"
+msgstr ""
+
+#: themer/includes/multi-filter.php:234
+msgctxt "multi-filter"
+msgid "Comments"
+msgstr ""
+
+#: themer/includes/multi-filter.php:235
+msgctxt "multi-filter"
+msgid "Likes"
+msgstr ""
+
+#: themer/includes/multi-filter.php:236
+msgctxt "multi-filter"
+msgid "Favorites"
+msgstr ""
+
+#: themer/includes/nav-walker-edit.php:65
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: themer/includes/nav-walker-edit.php:69
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: themer/includes/nav-walker-edit.php:84
+msgid "sub item"
+msgstr ""
+
+#: themer/includes/nav-walker-edit.php:99
+msgid "Move up"
+msgstr ""
+
+#: themer/includes/nav-walker-edit.php:112
+msgid "Move down"
+msgstr ""
+
+#: themer/includes/nav-walker-edit.php:116
+msgid "Edit menu item"
+msgstr ""
+
+#: themer/includes/nav-walker-edit.php:116
+msgid "Edit"
+msgstr ""
+
+#: themer/includes/nav-walker-edit.php:140
+msgid "Move"
+msgstr ""
+
+#: themer/includes/nav-walker-edit.php:141
+msgid "Up one"
+msgstr ""
+
+#: themer/includes/nav-walker-edit.php:142
+msgid "Down one"
+msgstr ""
+
+#: themer/includes/nav-walker-edit.php:145
+msgid "To the top"
+msgstr ""
+
+#: themer/includes/nav-walker-edit.php:153
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: themer/includes/nav-walker-edit.php:172
+msgid "Remove"
+msgstr ""
+
+#: themer/includes/nav-walker-edit.php:190
+msgid "Cancel"
+msgstr "取消"
+
+#: themer/includes/notification-list.php:208
+msgid "Title"
+msgstr ""
+
+#: themer/includes/notification-list.php:209
+msgctxt "notice"
+msgid "Content"
+msgstr ""
+
+#: themer/includes/notification-list.php:287
+msgid "已读"
+msgstr ""
+
+#: themer/includes/notification-list.php:287
+msgid "未读"
+msgstr ""
+
+#: themer/includes/notification-list.php:299
+msgid ""
+"You are about to delete this notification\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: themer/includes/notifications.php:37 themer/includes/notifications.php:242
+msgctxt "list"
+msgid "Notifications"
+msgstr ""
+
+#: themer/includes/notifications.php:249
+msgid "Search notifications"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:335
+msgid "Install Required Plugins"
+msgstr "安裝所需的外掛"
+
+#: themer/includes/plugin-activation.php:336
+msgid "Install Plugins"
+msgstr "安裝外掛"
+
+#: themer/includes/plugin-activation.php:338
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "正在安裝：%s"
+
+#: themer/includes/plugin-activation.php:340
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "更新外掛: %s"
+
+#: themer/includes/plugin-activation.php:341
+msgid "Something went wrong with the plugin API."
+msgstr "外掛API出錯了。"
+
+#: themer/includes/plugin-activation.php:344
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "這個主題需要以下外掛：%1$s"
+msgstr[1] "主题依赖插件：%1$s"
+
+#: themer/includes/plugin-activation.php:350
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "主題推薦以下外掛：%1$s"
+msgstr[1] "主题推荐插件：%1$s"
+
+#: themer/includes/plugin-activation.php:356
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "以下外掛需要更新為最新版本，以確保與此主題的最大兼容性：%1$s"
+msgstr[1] "以下插件需要更新至新版才能保证与主题的兼容性：%1$s"
+
+#: themer/includes/plugin-activation.php:362
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "有可用的更新：%1$s"
+msgstr[1] "插件有更新：%1$s"
+
+#: themer/includes/plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下所需的外掛未啟用：%1$s"
+msgstr[1] "依赖插件未启用：%1$s"
+
+#: themer/includes/plugin-activation.php:374
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "推薦的外掛未啟用：%1$s"
+msgstr[1] "推荐插件未启用：%1$s"
+
+#: themer/includes/plugin-activation.php:379
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "開始安裝外掛"
+msgstr[1] "现在安装"
+
+#: themer/includes/plugin-activation.php:384
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "開始更新外掛"
+msgstr[1] "现在更新"
+
+#: themer/includes/plugin-activation.php:389
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "啟用外掛"
+msgstr[1] "现在启用"
+
+#: themer/includes/plugin-activation.php:393
+msgid "Return to Required Plugins Installer"
+msgstr "返回所需的外掛安裝程序"
+
+#: themer/includes/plugin-activation.php:394
+#: themer/includes/plugin-activation.php:923
+#: themer/includes/plugin-activation.php:926
+#: themer/includes/plugin-activation.php:2655
+#: themer/includes/plugin-activation.php:3702
+msgid "Return to the Dashboard"
+msgstr "返回控制台"
+
+#: themer/includes/plugin-activation.php:395
+#: themer/includes/plugin-activation.php:3281
+msgid "Plugin activated successfully."
+msgstr "外掛已成功啟用"
+
+#: themer/includes/plugin-activation.php:396
+#: themer/includes/plugin-activation.php:3074
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "以下外掛已成功啟用："
+msgstr[1] "已成功安装插件："
+
+#: themer/includes/plugin-activation.php:398
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "外掛 %1$s已經是啟用狀態"
+
+#: themer/includes/plugin-activation.php:400
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "外掛啟用失敗！主題需要 %s 以上版本，請先生及外掛。"
+
+#: themer/includes/plugin-activation.php:402
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有外掛已成功安裝並啟用。%1$s"
+
+#: themer/includes/plugin-activation.php:403
+msgid "Dismiss this notice"
+msgstr "關閉提示"
+
+#: themer/includes/plugin-activation.php:404
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "有一個或多個必需或推薦的外掛來安裝，更新或啟用。"
+
+#: themer/includes/plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "請聯絡本網站的管理員尋求幫助。"
+
+#: themer/includes/plugin-activation.php:608
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "外掛需要更新才能兼容當前主題"
+
+#: themer/includes/plugin-activation.php:609
+msgid "Update Required"
+msgstr "需要更新"
+
+#: themer/includes/plugin-activation.php:726
+msgid "Set the parent_slug config variable instead."
+msgstr "改為設置parent_slug配置變量。"
+
+#: themer/includes/plugin-activation.php:926
+#, php-format
+msgid "Plugins updated successfully. %1$s"
+msgstr "外掛已成功更新%1$s"
+
+#: themer/includes/plugin-activation.php:1033
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "遠程外掛不包含具有所需段落的文件夾，無法運作。"
+
+#: themer/includes/plugin-activation.php:1033
+#: themer/includes/plugin-activation.php:1036
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr "請聯繫外掛提供商，並要求他們根據WordPress指南打包外掛。"
+
+#: themer/includes/plugin-activation.php:1036
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "遠程外掛由多個文件組成，但文件沒有打包在一個文件夾中。"
+
+#: themer/includes/plugin-activation.php:1229
+#: themer/includes/plugin-activation.php:3070
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "&"
+
+#: themer/includes/plugin-activation.php:2090
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2395
+msgid "Required"
+msgstr "需要"
+
+#: themer/includes/plugin-activation.php:2398
+msgid "Recommended"
+msgstr "推薦"
+
+#: themer/includes/plugin-activation.php:2414
+msgid "WordPress Repository"
+msgstr "WordPress資料庫"
+
+#: themer/includes/plugin-activation.php:2417
+msgid "External Source"
+msgstr "外部源"
+
+#: themer/includes/plugin-activation.php:2420
+msgid "Pre-Packaged"
+msgstr "預包裝"
+
+#: themer/includes/plugin-activation.php:2437
+msgid "Not Installed"
+msgstr "未安裝"
+
+#: themer/includes/plugin-activation.php:2441
+msgid "Installed But Not Activated"
+msgstr "已安裝但未啟用"
+
+#: themer/includes/plugin-activation.php:2443
+msgid "Active"
+msgstr "啟用"
+
+#: themer/includes/plugin-activation.php:2449
+msgid "Required Update not Available"
+msgstr "需要更新才能啟用"
+
+#: themer/includes/plugin-activation.php:2452
+msgid "Requires Update"
+msgstr "需要更新"
+
+#: themer/includes/plugin-activation.php:2455
+msgid "Update recommended"
+msgstr "建議更新"
+
+#: themer/includes/plugin-activation.php:2464
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2510
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "全部 <span class=\"count\">(%s)</span>"
+msgstr[1] "全部 <span class=\"count\">(%s)</span>"
+
+#: themer/includes/plugin-activation.php:2514
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "安装 <span class=\"count\">(%s)</span>"
+msgstr[1] "未安装 <span class=\"count\">(%s)</span>"
+
+#: themer/includes/plugin-activation.php:2518
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "可用更新<span class=\"count\">(%s)</span>"
+msgstr[1] "可更新 <span class=\"count\">(%s)</span>"
+
+#: themer/includes/plugin-activation.php:2522
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "可启用 <span class=\"count\">(%s)</span>"
+msgstr[1] "未启用 <span class=\"count\">(%s)</span>"
+
+#: themer/includes/plugin-activation.php:2604
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+#: themer/includes/plugin-activation.php:2612
+msgid "Installed version:"
+msgstr "安裝版本："
+
+#: themer/includes/plugin-activation.php:2620
+msgid "Minimum required version:"
+msgstr "最低要求版本："
+
+#: themer/includes/plugin-activation.php:2632
+msgid "Available version:"
+msgstr "可更新版本："
+
+#: themer/includes/plugin-activation.php:2655
+msgid "No plugins to install, update or activate."
+msgstr "沒有插件可以安裝，更新或啟用。"
+
+#: themer/includes/plugin-activation.php:2669
+msgid "Plugin"
+msgstr "外掛"
+
+#: themer/includes/plugin-activation.php:2670
+msgid "Source"
+msgstr "資源"
+
+#: themer/includes/plugin-activation.php:2671
+msgid "Type"
+msgstr "類型"
+
+#: themer/includes/plugin-activation.php:2675
+msgid "Version"
+msgstr "版本"
+
+#: themer/includes/plugin-activation.php:2725
+#, php-format
+msgid "Install %2$s"
+msgstr "安裝 %2$s"
+
+#: themer/includes/plugin-activation.php:2730
+#, php-format
+msgid "Update %2$s"
+msgstr "更新 %2$s"
+
+#: themer/includes/plugin-activation.php:2736
+#, php-format
+msgid "Activate %2$s"
+msgstr "啟用 %2$s"
+
+#: themer/includes/plugin-activation.php:2806
+msgid "Upgrade message from the plugin author:"
+msgstr "外掛更新訊息："
+
+#: themer/includes/plugin-activation.php:2839
+msgid "Install"
+msgstr "安裝"
+
+#: themer/includes/plugin-activation.php:2848
+msgid "Activate"
+msgstr "啟用"
+
+#: themer/includes/plugin-activation.php:2879
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "沒有選擇外掛安裝。 不採取行動。"
+
+#: themer/includes/plugin-activation.php:2881
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "沒有選擇外掛安裝。 不採取行動。"
+
+#: themer/includes/plugin-activation.php:2922
+msgid "No plugins are available to be installed at this time."
+msgstr "目前沒有外掛可供安裝。"
+
+#: themer/includes/plugin-activation.php:2924
+msgid "No plugins are available to be updated at this time."
+msgstr "目前沒有外掛可供更新。"
+
+#: themer/includes/plugin-activation.php:3030
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "沒有選擇外掛被啟用。 不採取行動。"
+
+#: themer/includes/plugin-activation.php:3056
+msgid "No plugins are available to be activated at this time."
+msgstr "目前沒有外掛可用於激活。"
+
+#: themer/includes/plugin-activation.php:3280
+msgid "Plugin activation failed."
+msgstr "外掛啟用失敗"
+
+#: themer/includes/plugin-activation.php:3620
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "更新外掛 %1$s (%2$d/%3$d)"
+
+#: themer/includes/plugin-activation.php:3623
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安裝外掛 %1$s 出錯：<strong>%2$s</strong>"
+
+#: themer/includes/plugin-activation.php:3625
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "安裝 %1$s 失敗"
+
+#: themer/includes/plugin-activation.php:3629
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "安裝和啟用過程即將開始。 這個過程可能需要一些時間，所以請耐心等待。"
+
+#: themer/includes/plugin-activation.php:3631
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 安裝啟用成功"
+
+#: themer/includes/plugin-activation.php:3632
+msgid "All installations and activations have been completed."
+msgstr "所有安裝和啟用都已完成。"
+
+#: themer/includes/plugin-activation.php:3634
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安裝和啟用插件 %1$s (%2$d/%3$d)"
+
+#: themer/includes/plugin-activation.php:3637
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "安裝過程即將開始。 這個過程可能需要一些時間，所以請耐心等待。"
+
+#: themer/includes/plugin-activation.php:3639
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s 安裝成功"
+
+#: themer/includes/plugin-activation.php:3640
+msgid "All installations have been completed."
+msgstr "所有安裝已完成。"
+
+#: themer/includes/plugin-activation.php:3642
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "安裝外掛 %1$s (%2$d/%3$d)"
+
+#: themer/includes/term-meta.php:136
+msgid "posts"
+msgstr ""
+
+#: themer/includes/user-groups.php:30 themer/includes/user-groups.php:38
+#: themer/includes/user-groups.php:64 themer/includes/user-groups.php:67
+#: themer/includes/user-groups.php:167
+msgid "Groups"
+msgstr "群組"
+
+#: themer/includes/user-groups.php:31
+msgid "User Group"
+msgstr "用戶群組"
+
+#: themer/includes/user-groups.php:32
+msgid "Search Groups"
+msgstr "搜尋群組"
+
+#: themer/includes/user-groups.php:33
+msgid "All Groups"
+msgstr "所有群組"
+
+#: themer/includes/user-groups.php:34
+msgid "Edit Group"
+msgstr "編輯群組"
+
+#: themer/includes/user-groups.php:35
+msgid "Update Group"
+msgstr "更新群組"
+
+#: themer/includes/user-groups.php:36
+msgid "Add Group"
+msgstr "增加新群組"
+
+#: themer/includes/user-groups.php:37
+msgid "No Group"
+msgstr "沒有群組"
+
+#: themer/includes/user-groups.php:145
+msgid "Users"
+msgstr "使用者"
+
+#: themer/includes/user-groups.php:172 themer/includes/user-groups.php:175
+msgid "Select Group"
+msgstr "選擇群組"
+
+#: themer/includes/user-groups.php:205
+msgid "Group"
+msgstr "群組"
+
+#: themer/includes/user-groups.php:245
+msgid "Change"
+msgstr "更改"
+
+#: themer/includes/user-groups.php:248
+msgid "User Groups"
+msgstr "用戶分組"
+
+#: themer/includes/user-groups.php:256
+msgid "Filter"
+msgstr "過濾"
+
+#: themer/member/templates/follows.php:2
+msgid "Following"
+msgstr ""
+
+#: themer/member/templates/follows.php:3
+msgid "Followers"
+msgstr ""
+
+#: themer/member/templates/follows.php:15
+msgid "You have not followed any users."
+msgstr ""
+
+#: themer/member/templates/follows.php:15
+msgid "This user has not followed any users."
+msgstr ""
+
+#: themer/member/templates/follows.php:26
+msgid "You have not been followed by any users."
+msgstr ""
+
+#: themer/member/templates/follows.php:26
+msgid "This user has not been followed by any users."
+msgstr ""
+
+#: themer/member/templates/login.php:20 themer/member/templates/login.php:21
+msgid "Log in with SMS"
+msgstr ""
+
+#: themer/member/templates/login.php:20 themer/member/templates/login.php:21
+msgid "Log in with username"
+msgstr ""
+
+#: themer/member/templates/login.php:25
+msgid "Sign In"
+msgstr "登入"
+
+#: themer/member/templates/login.php:26 themer/member/templates/login.php:49
+msgid "No account?"
+msgstr "還沒有帳戶？"
+
+#: themer/member/templates/login.php:26 themer/member/templates/login.php:49
+msgid "Create one!"
+msgstr "立刻註冊"
+
+#: themer/member/templates/login.php:42
+msgid "Sign in with"
+msgstr "第三方帳戶登入"
+
+#: themer/member/templates/login.php:59 themer/member/templates/register.php:31
+msgid "Go back to home"
+msgstr ""
+
+#: themer/member/templates/message-list.php:5
+msgid "Image"
+msgstr ""
+
+#: themer/member/templates/message-list.php:23
+msgid "Have not sent or received private messages"
+msgstr ""
+
+#: themer/member/templates/notification.php:20
+msgid "No notification"
+msgstr ""
+
+#: themer/member/templates/register.php:11
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: themer/member/templates/register.php:17
+msgid "Sign Up"
+msgstr "註冊"
+
+#: themer/member/templates/register.php:18
+msgid "Already have an account?"
+msgstr "已經有帳戶？"
+
+#: themer/member/templates/register.php:18
+msgctxt "sign"
+msgid "Sign in"
+msgstr "立刻登入"
+
+#: themer/member/templates/register.php:24
+msgid "Sign up with"
+msgstr "也可以使用以下帳戶<br>簡單註冊快人一步"
+
+#: themer/modules/search.php:156
+msgctxt "search_type"
+msgid "Post"
+msgstr ""
+
+#: themer/modules/search.php:157
+msgctxt "search_type"
+msgid "Page"
+msgstr ""
+
+#: themer/modules/search.php:160
+msgctxt "search_type"
+msgid "Question"
+msgstr ""
+
+#: themer/modules/search.php:163
+msgctxt "search_type"
+msgid "Product"
+msgstr ""
+
+#: themer/modules/search.php:201
+msgid "Site Search"
+msgstr ""
+
+#: widgets/comments.php:69
+msgid "Comment on"
+msgstr ""
+
+#: widgets/comments.php:76
+msgid "No comments"
+msgstr ""
+
+#: widgets/post-hot.php:110 widgets/post-tabs.php:124
+#: widgets/post-thumb.php:104 widgets/profile.php:54
+msgid "No Posts"
+msgstr ""
+
+#: widgets/profile.php:47
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/special.php:70
+msgctxt "speial"
+msgid "Recent Posts: "
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:48
+#, php-format
+msgid "Remove %s from cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:53
+#, php-format
+msgid "&ldquo;%s&rdquo; has been removed from your cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:108
+msgid "No products in the cart."
+msgstr "您的購物車目前是空的"
+
+#: woocommerce/checkout/form-billing.php:25
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing details"
+msgstr "訂單明細"
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:34
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:50
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:35
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:35
+msgid "Enter your coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:35
+msgid "Click here to enter your code"
+msgstr "點擊輸入優惠碼"
+
+#: woocommerce/checkout/form-coupon.php:41
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:42
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:45
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:43
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:22
+msgid "No products were found matching your selection."
+msgstr "沒有產品符合您的選擇"
+
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+msgid "Showing all %1$d result"
+msgid_plural "Showing all %1$d results"
+msgstr[0] "共%1$d 件商品"
+msgstr[1] "共%1$d 件商品"
+
+#: woocommerce/loop/result-count.php:38
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/dashboard.php:30
+#: woocommerce/myaccount/dashboard.php:48
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Sign out</a>)"
+msgstr "您好，%1$s！（不是 %1$s？ <a href=\"%2$s\">退出登入</a>）"
+
+#: woocommerce/myaccount/dashboard.php:38
+#: woocommerce/myaccount/dashboard.php:56
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping addresses</a> and <a "
+"href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+"在這個頁面，您可以察看 <a href=\"%1$s\">最近的訂單</a>，或管理您的 <a "
+"href=\"%2$s\">送貨地址</a> ，如需修改帳戶資料，可以點擊<a href=\"%3$s\">修改"
+"您的密碼和帳戶資料</a>。"
+
+#: woocommerce/myaccount/downloads.php:40 woocommerce/myaccount/orders.php:112
+msgid "Browse products"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:42
+msgid "No downloads available yet."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:50
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+#: woocommerce/order/order-details-customer.php:21
+msgid "Billing address"
+msgstr "訂單位址"
+
+#: woocommerce/myaccount/my-address.php:29
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:44
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:44
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:51
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:52
+#, php-format
+msgid "View order number %s"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:53
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:65
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:77
+#, php-format
+msgid "%1$s order number %2$s"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:114
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:23
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/product-searchform.php:24
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr "暫無留言內容。"
+
+#: woocommerce/single-product-reviews.php:66
+msgid "Add a review"
+msgstr "增加留言"
+
+#: woocommerce/single-product-reviews.php:66
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "成為第一個留言&ldquo;%s&rdquo;的人"
+
+#: woocommerce/single-product-reviews.php:67
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "回覆 %s"
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "購買過此商品並已登入的客戶才可以評價。"
+
+#: woocommerce/single-product/rating.php:37
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] "%s個評價"
+msgstr[1] "%s個評價"
+
+#: woocommerce/single-product/related.php:26
+msgid "Related products"
+msgstr "相關商品"
+
+#~ msgid "Show Details"
+#~ msgstr "顯示詳情"
+
+#~ msgid "Hide Details"
+#~ msgstr "隱藏詳情"
+
+#~ msgid "Updated successfully."
+#~ msgstr "更新成功"
+
+#~ msgid "The password is incorrect"
+#~ msgstr "密碼錯誤"
+
+#~ msgid "The username or password is incorrect"
+#~ msgstr "帳號或密碼錯誤"
+
+#~ msgid ""
+#~ "Please activate your account. <a href=\"%s\" target=\"_blank\">Resend "
+#~ "activation email</a>"
+#~ msgstr "帳號未驗證 <a href=\"%s\" target=\"_blank\">重新發送啟用Email</a>"
+
+#~ msgid "Account awaiting approval."
+#~ msgstr "帳號正在等候核准"
+
+#~ msgid "The username does not exist"
+#~ msgstr "帳號不存在"
+
+#~ msgid "Error occurs when resend email."
+#~ msgstr "重新發送Email時發生錯誤..."
+
+#~ msgid "You have already activated your account."
+#~ msgstr "您已經啟動了您的帳戶。"
+
+#~ msgid "Generate reset key error."
+#~ msgstr "生成重置鍵錯誤。"
+
+#~ msgid "Someone has requested a password reset for the following account:"
+#~ msgstr "有人要求為以下帳戶重置密碼："
+
+#~ msgid "Site Name: %s"
+#~ msgstr "網站名稱: %s"
+
+#~ msgid "Username: %s"
+#~ msgstr "帳號: %s"
+
+#~ msgid "To reset your password, visit the following address:"
+#~ msgstr "要重置密碼，請開啟以下網址："
+
+#~ msgid "[%s] Password Reset"
+#~ msgstr "[%s] 重設密碼"
+
+#~ msgid "The email could not be sent."
+#~ msgstr "該Email無法發送!如有疑問請聯絡客服人員。"
+
+#~ msgid "Logout"
+#~ msgstr "[ 登出 ]"
+
+#~ msgid " is required"
+#~ msgstr "不能為空"
+
+#~ msgid "This is not a valid email"
+#~ msgstr "請輸入正確的Email"
+
+#~ msgid "Your passwords do not match"
+#~ msgstr "兩次密碼輸入不一致"
+
+#~ msgid "Please enter a valid phone number"
+#~ msgstr "請輸入正確的電話號碼"
+
+#~ msgid "Slide verify failed, please try again"
+#~ msgstr "滑塊驗證失敗請重試"
+
+#~ msgid "The nonce check failed"
+#~ msgstr "驗證失敗"
+
+#~ msgid "Request Error!"
+#~ msgstr "請求！失敗！"
+
+#~ msgid "Hi, %s!"
+#~ msgstr "您好，%s！"
+
+#~ msgid ""
+#~ "Welcome to %s. To activate your account and verify your email address, "
+#~ "please click the following link:"
+#~ msgstr "歡迎加入%s！要啟用您的帳戶並驗證您的Email，請點擊以下連結："
+
+#~ msgid "[%s] Please verify your email address"
+#~ msgstr "【%s】請驗證您的Email信箱"
+
+#~ msgid "The user does not exist"
+#~ msgstr "帳號不存在"
+
+#~ msgid "%s has just created an account on %s!"
+#~ msgstr "用戶【%s】已在您的網站【%s】成功註冊！"
+
+#~ msgid "E-Mail: %s"
+#~ msgstr "E-mail信箱：%s"
+
+#~ msgid "If you want to approve the new user, please go to wp-admin page."
+#~ msgstr "如果您想批准新用戶，請轉至後台進行操作。"
+
+#~ msgid "[%s] New user account"
+#~ msgstr "【%s】新用戶註冊"
+
+#~ msgid ""
+#~ "Congratulations, your account has been activated successfully, you can "
+#~ "now login: <a href=\"%s\">%s</a>"
+#~ msgstr "恭喜，您的帳戶已成功啟用，您現在可以登入：<a href=\"%s\">%s</a>"
+
+#~ msgid "[%s] Welcome to join us"
+#~ msgstr "【%s】歡迎加入我們！"
+
+#~ msgid "Profile"
+#~ msgstr "個人資料"
+
+#~ msgid "Account"
+#~ msgstr "帳號"
+
+#~ msgid "Addresses"
+#~ msgstr "配送地址"
+
+#~ msgid "Apply"
+#~ msgstr "应用"
+
+#~ msgid "No user found."
+#~ msgstr "沒有找到用戶"
+
+#~ msgid "Save Changes"
+#~ msgstr "保存設定"
+
+#~ msgid "You have not created any posts."
+#~ msgstr "你還沒有發佈任何文章"
+
+#~ msgid "This user has not created any posts."
+#~ msgstr "該用戶還沒發表文章"
+
+#~ msgid "Load more comments"
+#~ msgstr "點擊察看更多留言"
+
+#~ msgid "You have not made any comments."
+#~ msgstr "您還沒有發表任何留言。"
+
+#~ msgid "This user has not made any comments."
+#~ msgstr "該用戶還沒有發佈任何留言。"
+
+#~ msgid "Your activation link has expired."
+#~ msgstr "啟用連結已經過期"
+
+#~ msgid "Your activation link is invalid."
+#~ msgstr "啟用連結無效"
+
+#~ msgid "Resend activation email"
+#~ msgstr "重新發送啟用Email"
+
+#~ msgid "Your account has been activated successfully."
+#~ msgstr "您的帳號已經成功啟用。"
+
+#~ msgid "Click here to login"
+#~ msgstr "點擊此處登入"
+
+#~ msgid "Unapproved"
+#~ msgstr "未驗證啟用/審核中"
+
+#~ msgid "Approve"
+#~ msgstr "驗證啟用/核准完成"
+
+#~ msgid "Disapprove"
+#~ msgstr "未驗證完成/審核中"
+
+#~ msgid "Registered"
+#~ msgstr "註冊"
+
+#~ msgid "%s minute ago"
+#~ msgid_plural "%s minutes ago"
+#~ msgstr[0] "%s分鐘前"
+#~ msgstr[1] "%s分鐘前"
+
+#~ msgid "On <a target=\"_blank\" href=\"%1$s\">%2$s</a>"
+#~ msgstr "留言於 <a target=\"_blank\" href=\"%1$s\">%2$s</a>"
+
+#~ msgid ""
+#~ "If this was a mistake, just ignore this email and nothing will happen."
+#~ msgstr "如果這是一個錯誤，請忽略此Email，不會發生任何事情。"
+
+#~ msgctxt "orders"
+#~ msgid "Previous"
+#~ msgstr "上一頁"
+
+#~ msgctxt "orders"
+#~ msgid "Next"
+#~ msgstr "下一页"
+
+#~ msgid "&laquo; Previous"
+#~ msgstr "&laquo; 上一頁"
+
+#~ msgid "Next &raquo;"
+#~ msgstr "下一頁 &raquo;"
+
+#~ msgctxt "single"
+#~ msgid "&laquo; Previous"
+#~ msgstr "&laquo; 上一篇"
+
+#~ msgctxt "single"
+#~ msgid "Next  &raquo;"
+#~ msgstr "下一篇  &raquo;"
+
+#~ msgid "Processing..."
+#~ msgstr "處理中..."
+
+#~ msgid "Contact Us"
+#~ msgstr "聯絡我們"
+
+#~ msgid "No posts."
+#~ msgstr "暫無內容"
+
+#~ msgid "Shipping address"
+#~ msgstr "發貨地址"
+
+#~ msgid "Province"
+#~ msgstr "省分"
+
+#~ msgid "Title:"
+#~ msgstr "標題："
+
+#~ msgid "Posts number:"
+#~ msgstr "顯示數量："
+
+#~ msgid "Your password must be between 6-32 characters"
+#~ msgstr "密碼必須為6~32個字符"
+
+#~ msgid "Your cart is currently empty."
+#~ msgstr "您的购物车目前是空的"
+
+#~ msgid "All"
+#~ msgstr "全部"
+
+#~ msgid "Read more"
+#~ msgstr "查看更多"
+
+#~ msgid "Links: "
+#~ msgstr "友情链接："
+
+#~ msgid "<i class=\"fa fa-tags\"></i> Tags: "
+#~ msgstr "<i class=\"fa fa-tags\"></i> 标签："
+
+#~ msgctxt "news"
+#~ msgid "Previous: %link"
+#~ msgstr "上一篇：%link"
+
+#~ msgctxt "news"
+#~ msgid "Next: %link"
+#~ msgstr "下一篇：%link"
+
+#~ msgctxt "product"
+#~ msgid "Previous: %link"
+#~ msgstr "上一个：%link"
+
+#~ msgctxt "product"
+#~ msgid "Next: %link"
+#~ msgstr "下一个：%link"
+
+#~ msgid "Read More &raquo;"
+#~ msgstr "阅读更多&raquo;"
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugins."
+#~ msgstr[0] "抱歉，你没有权限安装插件 %1$s"
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugins."
+#~ msgstr[0] "抱歉，你没有权限更新插件 %1$s"
+
+#~ msgid "Return to the dashboard"
+#~ msgstr "返回仪表盘"
+
+#~ msgctxt "%s = version number"
+#~ msgid "TGMPA v%s"
+#~ msgstr "工具版本：v%s"
+
+#~ msgid ""
+#~ "No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+#~ "Dashboard</a>"
+#~ msgstr "没有插件需要安装、更新或者启用。点击<a href=\"%1$s\">返回仪表盘</a>"
+
+#~ msgctxt "%2$s = plugin name in screen reader markup"
+#~ msgid "Install %2$s"
+#~ msgstr "安装%2$s"
+
+#~ msgctxt "%2$s = plugin name in screen reader markup"
+#~ msgid "Update %2$s"
+#~ msgstr "更新 %2$s"
+
+#~ msgctxt "%2$s = plugin name in screen reader markup"
+#~ msgid "Activate %2$s"
+#~ msgstr "启用 %2$s"
+
+#~ msgid "More &raquo;"
+#~ msgstr "更多 &raquo;"
+
+#~ msgid "d/m/Y"
+#~ msgstr "Y-m-d"
+
+#~ msgid "There is no excerpt because this is a protected post."
+#~ msgstr "无法获取摘要信息，因为这是一个受保护的文章。"
+
+#~ msgid "Previous post: %link"
+#~ msgstr "上一篇：%link"
+
+#~ msgid "Next post: %link"
+#~ msgstr "下一篇：%link"
+
+#~ msgctxt "This theme requires the following plugins: %1$s."
+#~ msgid "This theme requires the following plugin: %1$s."
+#~ msgstr "当前主题依赖的插件：%1$s"
+
+#~ msgctxt "This theme recommends the following plugins: %1$s."
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgstr "当前主题推荐的插件：%1$s"
+
+#~ msgctxt ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugins."
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugin."
+#~ msgstr "抱歉，你没有权限安装插件 %1$s"
+
+#~ msgctxt ""
+#~ "The following plugins need to be updated to their latest version to "
+#~ "ensure maximum compatibility with this theme: %1$s."
+#~ msgid ""
+#~ "The following plugin needs to be updated to its latest version to ensure "
+#~ "maximum compatibility with this theme: %1$s."
+#~ msgstr "以下插件需要升级至最新版本才能保证与主题的兼容性：%1$s"
+
+#~ msgctxt "There are updates available for the following plugins: %1$s."
+#~ msgid "There is an update available for: %1$s."
+#~ msgstr "插件有更新：%1$s"
+
+#~ msgctxt ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugins."
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugin."
+#~ msgstr "抱歉，你没有权限更新插件 %1$s"
+
+#~ msgctxt "The following required plugins are currently inactive: %1$s."
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgstr "以下依赖插件未启用：%1$s"
+
+#~ msgctxt "The following recommended plugins are currently inactive: %1$s."
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgstr "以下推荐插件未启用：%1$s"
+
+#~ msgctxt ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugins."
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugin."
+#~ msgstr "抱歉，你没有权限启用插件 %1$s"
+
+#~ msgctxt "Begin installing plugins"
+#~ msgid "Begin installing plugin"
+#~ msgstr "开始安装插件"
+
+#~ msgctxt "Begin updating plugins"
+#~ msgid "Begin updating plugin"
+#~ msgstr "开始更新插件"
+
+#~ msgctxt "Begin activating plugins"
+#~ msgid "Begin activating plugin"
+#~ msgstr "开始启用插件"
+
+#~ msgid "No result for '%s'"
+#~ msgstr "抱歉，未找到与“%s”相关的内容。"
